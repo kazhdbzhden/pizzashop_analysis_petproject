@@ -59,7 +59,7 @@ Pet-проект по системному анализу веб-системы 
 
 ## Prototype
 
-[Открыть в Figma]https://www.figma.com/design/AagFkUAehO25xl4wysjSSp/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF?node-id=0-1&p=f
+[Открыть в Figma](https://www.figma.com/design/AagFkUAehO25xl4wysjSSp/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF?node-id=0-1&p=f)
 
 ## Стек / инструменты
 
